@@ -11,7 +11,7 @@ In this exercise I created an app that shows greetings radomly using Webpack wit
 
 ## Instalation
 
-- [Clone repository](git@github.com:franclobo/hello-rails-react.git)
+- [Clone repository](git@github.com:franclobo/hello-rails-back-end.git)
 
 - bundle install
 
