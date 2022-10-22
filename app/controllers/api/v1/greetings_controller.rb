@@ -3,7 +3,7 @@ class Api::V1::GreetingsController < ApplicationController
 
   # GET /greetings
   def index
-    @greetings = Greeting.all
+    @greetings = Greeting.all.sample(1)
 
     render json: @greetings
   end
