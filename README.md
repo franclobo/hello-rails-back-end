@@ -19,6 +19,8 @@ In this exercise I created an app that shows greetings radomly using Webpack wit
 
 - ./bin/dev
 
+- [React-front-end-repo](https://github.com/franclobo/hello-react-front-end)
+
 ## Author
 
 ## 👤 Francisco Borja
