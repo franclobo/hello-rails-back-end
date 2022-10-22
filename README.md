@@ -44,6 +44,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
+- [Setup A Ruby on Rails 7 API With React JS](https://www.youtube.com/watch?v=sh4WrNGDvQM)
 
 ## 📝 License
 
